@@ -1,0 +1,1 @@
+This course marked my first encounter with coding in my life, so I might have written inefficient and poorly-structured code. Please excuse any shortcomings. Besides these, I received full marks for all assignments
